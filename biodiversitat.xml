@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<especies>
+  <especie>
+    <nom>Esponja de mar</nom>
+    <idioma>ca</idioma>
+    <familia>Invertebrats</familia>
+    <lloc>Port Fòrum - Barcelona</lloc>
+    <mida unitat="cm">10</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Axinella_verrucosa00.jpg</foto>
+      <descripcio>Les esponges o porífers (Porifera) són un embrancament d'animals simples i primitius ja coneguts des de temps remots. L'acceptació del clade Epitheliozoa comportaria que els porífers fossin tàxon és parafilètic, ja que els eumetazous en descendeixen.
+
+Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sembla que no són avantpassats de cap altre grup d'animals i que, més aviat, constitueixen una branca sense continuïtat en l'arbre evolutiu.</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Les esponges presenten cambres interiors revestides de coanòcits, cèl·lules que contenen un llarg flagel i un collar.</caracteristica>
+      <caracteristica>Aquestes cèl·lules fagociten les partícules alimentàries de l'aigua que flueix a través del cos de l'esponja i del seu sistema de canals, impulsada per incomptables sacsejades dels flagels.</caracteristica>
+      <caracteristica>Les colònies d'animals que no es desplacen en el mar necessiten que els corrents portin partícules alimentàries fins a la proximitat dels seus òrgans de captura, com els flagels o tentacles.</caracteristica>
+      <caracteristica>Però les esponges, gràcies a les cèl·lules que produeixen aquest corrent d'aigua en el seu interior, poden viure també en aigües quietes, amb l'única condició que continguin substàncies nutritives.</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Posidònia</nom>
+    <idioma>ca</idioma>
+    <familia>Plantes aquàtiques</familia>
+    <lloc>L'Estartit</lloc>
+    <mida unitat="cm">115</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Posidonia_oceanica10.jpg</foto>
+      <descripcio>L’alga de vidriers, altina o posidònia (Posidonia oceanica) és una planta aquàtica del gènere Posidonia endèmica de la Mediterrània. Malgrat el seu nom vulgar no es tracta d'una alga sinó d'una planta superior amb arrel, tija, fulles, flors i fruits. Les restes de posidònia a les platges són una indicació de la seva presència al fons marí.</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>La posidònia és una planta aquàtica que viu als fons marins, fins a uns 40 m de fondària.</caracteristica>
+      <caracteristica>Les tiges són subterrànies en forma de rizomes, horitzontals o verticals, que poden arribar a fer diversos decímetres de gruix.</caracteristica>
+      <caracteristica>A l'extrem de cada rizoma surt un feix de fulles, que són llargues i amb forma de cinta, d'un cm d'ample per uns 50 cm o més de llarg, amb nervis paral·lels i àpex arrodonit.</caracteristica>
+      <caracteristica>A la tardor perd part de les fulles.</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Gobio mediterráneo</nom>
+    <idioma>es</idioma>
+    <familia>Peces óseos</familia>
+    <lloc>Illes Medes</lloc>
+    <mida unitat="cm">15</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Parablennius_incognitus000.jpg</foto>
+      <descripcio>Esta especie presenta un penacho de radios filamentosos en la parte superior de la aleta pectoral. La primera aleta dorsal está bordeada por una banda anaranjada amarillenta. Tiene una cabeza maciza, con labios gruesos. Su coloración es beige oscura pero puede ser variable, a menudo presenta una linea blanca bajo los ojos, una mancha negriazul en la parte posterior de la primera aleta dorsal en los juveniles. Los machos reproductores son negruzcos, con el borde de las aletas más claro.</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Es un pez de cuerpo alargado, comprimido lateralmente en la parte posterior, y recubierto de escamas de tipo ctenoideo.</caracteristica>
+      <caracteristica>La cabeza es larga y gruesa, con el perfil anterior redondeado y con la boca ancha y prominente.</caracteristica>
+      <caracteristica>Puede alcanzar los 16 centímetros de longitud.</caracteristica>
+      <caracteristica>La coloración es marrón, jaspeado con una serie de manchas oscuras, más patentes entre el nacimiento de las pectorales y la aleta caudal.</caracteristica>
+      <caracteristica>La pupila es de un característico color verde esmeralda.</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Vaqueta suïssa</nom>
+    <idioma>ca</idioma>
+    <familia>Mol·luscs</familia>
+    <lloc>Tossa de Mar</lloc>
+    <mida unitat="cm">12</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Peltodoris_atromaculata30_2.jpg</foto>
+      <descripcio>És un mol·lusc sense closca, de forma aplanada i circular, amb taques marronoses fosques irregulars distribuides a l’atzar per tot el seu cos. Pot mesurar entre 5 i 15 centímetres de llargada en estat de repòs. Presenta una corona de 6 a 9 brànquies tripinnades d’un 1cm de longitud a la part posterior de la zona dorsal envoltant l’anus. A sobre del cap hi ha un parell de rinòfors amb llàmines sense ramificar. Al ventre té el peu, que és molt estret i no arriba a veure’s perquè està amagat sota el mantell. Tota la superfície superior del cos està recoberta de protuberàncies més o menys còniques que li dónen una textura granulosa i àspra.</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>En estat salvatge, la vaqueta suïssa és més abundant entre juny i setembre.</caracteristica>
+      <caracteristica>Hi ha individus adults que es poden trobar durant tot l'any, i dues generacions separades poden conviure al mateix temps.</caracteristica>
+      <caracteristica>Tot i que la vaqueta suïssa s’acostuma a presentar al gènere Discodoris, alguns estudis suggereixen que pot haver una diferència prou gran en la seva morfologia (per exemple, les mandíbules) perquè es classifiqui com a gènere independent.</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Estrella d'espines primes</nom>
+    <idioma>ca</idioma>
+    <familia>Equinoderms</familia>
+    <lloc>Cap de Creus</lloc>
+    <mida unitat="cm">15</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Hacelia_attenuata003.jpg</foto>
+      <descripcio>És un organisme de simetria bastant irregular, d'uns 12-15 centímetres de diàmetre, constituït per entre 7 i 10 braços al voltant del disc central, que és bastant petit. Presenta 2-4 madrepòrits, que són peces constituents del sistema vascular aqüífer. La part superior presenta gruixudes espines situades irregularment sobre la placa, disposades sobre els braços en 5 fileres longitudinals. La seva coloració és variable: la part superior és groc-blanquinós amb taques bru-negre o grogues, també vermelles o blau turquesa; la part inferior és de color groc i blanc.</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>És comú a l'infralitoral (la zona iluminada del fons marí), on apareix sota pedres i en esquerdes i racons dels fons rocosos.</caracteristica>
+      <caracteristica>També la trobem entre plantes, com fanerògames.</caracteristica>
+      <caracteristica>Present des d'aigües superficials fins a uns 50 metres de profunditat.</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Clathrina clathrus</nom>
+    <idioma>ca</idioma>
+    <familia>Invertebrats</familia>
+    <lloc>Immersió poc fonda</lloc>
+    <mida unitat="cm">10</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Clathrina_clathrus06.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Clathrina contorta</nom>
+    <idioma>ca</idioma>
+    <familia>Invertebrats</familia>
+    <lloc>Cap en particular</lloc>
+    <mida unitat="cm">15</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Clathrina_contorta00.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Guancha lacunosa</nom>
+    <idioma>ca</idioma>
+    <familia>Invertebrats</familia>
+    <lloc>Cap en particular</lloc>
+    <mida unitat="cm">3</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Guancha_lacunosa02.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Leucosolenia variabilis</nom>
+    <idioma>ca</idioma>
+    <familia>Invertebrats</familia>
+    <lloc>Immersió poc fonda</lloc>
+    <mida unitat="cm">2</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Leucosolenia_variabilis.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Paraleucilla magna</nom>
+    <idioma>ca</idioma>
+    <familia>Invertebrats</familia>
+    <lloc>Immersió poc fonda</lloc>
+    <mida unitat="cm">4</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Paraleucilla_magna_2.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Peltodoris atromaculata</nom>
+    <idioma>ca</idioma>
+    <familia>Mol·luscs</familia>
+    <lloc>Cap en particular</lloc>
+    <mida unitat="cm">12</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Peltodoris_atromaculata30_2.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Echinaster sepositus</nom>
+    <idioma>ca</idioma>
+    <familia>Estrelles de mar</familia>
+    <lloc>Immersió en praderia</lloc>
+    <mida unitat="cm">30</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Echinaster_sepositus02_1.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Edmunsella pedata</nom>
+    <idioma>ca</idioma>
+    <familia>Mol·luscs</familia>
+    <lloc>Cap en particular</lloc>
+    <mida unitat="cm">2</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Edmunsella_pedata14.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Antiopella cristata</nom>
+    <idioma>ca</idioma>
+    <familia>Mol·luscs</familia>
+    <lloc>Immersió fonda</lloc>
+    <mida unitat="cm">8</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Antiopella_cristata13.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Felimida luteorosea</nom>
+    <idioma>ca</idioma>
+    <familia>Mol·luscs</familia>
+    <lloc>Immersió fonda</lloc>
+    <mida unitat="cm">5</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Felimida_luteorosea014.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Phyllidia flava</nom>
+    <idioma>ca</idioma>
+    <familia>Mol·luscs</familia>
+    <lloc>Immersió fonda</lloc>
+    <mida unitat="cm">4</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Phyllidia_flava16.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Peltaster placenta</nom>
+    <idioma>ca</idioma>
+    <familia>Estrelles de mar</familia>
+    <lloc>Immersió fonda</lloc>
+    <mida unitat="cm">20</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Peltaster_placenta00.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Astropecten aranciacus</nom>
+    <idioma>ca</idioma>
+    <familia>Estrelles de mar</familia>
+    <lloc>Immersió en sorra</lloc>
+    <mida unitat="cm">40</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/astropecten_1.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Astrospartus mediterraneus</nom>
+    <idioma>ca</idioma>
+    <familia>Estrelles de mar</familia>
+    <lloc>Immersió fonda</lloc>
+    <mida unitat="cm">40</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Astrospartus_mediterraneus02.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Ophiothrix fragilis</nom>
+    <idioma>ca</idioma>
+    <familia>Estrelles de mar</familia>
+    <lloc>Immersió en coves</lloc>
+    <mida unitat="cm">12</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Ophiotrix_fragilis011.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Carcharhinus plumbeus</nom>
+    <idioma>ca</idioma>
+    <familia>Peixos cartilaginosos</familia>
+    <lloc>Immersió en aigües obertes</lloc>
+    <mida unitat="cm">300</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Carcharinus_plumbeus00.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Scyliorhinus stellaris</nom>
+    <idioma>ca</idioma>
+    <familia>Peixos cartilaginosos</familia>
+    <lloc>Immersió en sorra</lloc>
+    <mida unitat="cm">120</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Scyliorhinus_stellaris00.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Myliobatis aquila</nom>
+    <idioma>ca</idioma>
+    <familia>Peixos cartilaginosos</familia>
+    <lloc>Immersió en aigües obertes</lloc>
+    <mida unitat="cm">180</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Myliobatis_aquila000.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Torpedo marmorata</nom>
+    <idioma>ca</idioma>
+    <familia>Peixos cartilaginosos</familia>
+    <lloc>Immersió en sorra</lloc>
+    <mida unitat="cm">100</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Torpedo_marmorata02.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+  <especie>
+    <nom>Dasyatis pastinaca</nom>
+    <idioma>ca</idioma>
+    <familia>Peixos cartilaginosos</familia>
+    <lloc>Immersió en sorra</lloc>
+    <mida unitat="cm">60</mida>
+    <informacio_general>
+      <foto>https://www.cibsub.cat/rcs_gene/Dasyatis_pastinaca00.jpg</foto>
+      <descripcio>Organisme</descripcio>
+    </informacio_general>
+    <caracteristiques>
+      <caracteristica>Organisme</caracteristica>
+    </caracteristiques>
+  </especie>
+</especies>
