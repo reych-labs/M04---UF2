@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Source:  https://www.dbis.informatik.uni-goettingen.de/Mondial/#XML -->
-
+<?xml-stylesheet type="text/xsl" href="mondial.xsl" ?>
 <mondial>      
    <sea id="sea-Atlantic"
         country="F E GBZ IS IRL GB P AG BS BDS CDN USA C WD DOM RH WG KN WL WV TT RA BR RCH ROU FGU GUY SME YV RIM MA WSA ANG RCB NAM ZRE BEN WAN RT RSA CI GH CAM GQ G CV RG LB WAG SN GNB WAL NLSM SMAR SBAR STP PR AXA GUAD MART BVIR MNTS VIRG HELX FALK SPMI BERM TUCA SVAX GROX FARX"
