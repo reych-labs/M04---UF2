@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <especies>
-  <especie>
+  <especie grup="inv">
     <nom>Esponja de mar</nom>
     <idioma>ca</idioma>
     <familia>Invertebrats</familia>
@@ -19,7 +19,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Però les esponges, gràcies a les cèl·lules que produeixen aquest corrent d'aigua en el seu interior, poden viure també en aigües quietes, amb l'única condició que continguin substàncies nutritives.</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="plt">
     <nom>Posidònia</nom>
     <idioma>ca</idioma>
     <familia>Plantes aquàtiques</familia>
@@ -36,7 +36,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>A la tardor perd part de les fulles.</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="peix">
     <nom>Gobio mediterráneo</nom>
     <idioma>es</idioma>
     <familia>Peces óseos</familia>
@@ -54,7 +54,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>La pupila es de un característico color verde esmeralda.</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="mol">
     <nom>Vaqueta suïssa</nom>
     <idioma>ca</idioma>
     <familia>Mol·luscs</familia>
@@ -70,7 +70,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Tot i que la vaqueta suïssa s’acostuma a presentar al gènere Discodoris, alguns estudis suggereixen que pot haver una diferència prou gran en la seva morfologia (per exemple, les mandíbules) perquè es classifiqui com a gènere independent.</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="eq">
     <nom>Estrella d'espines primes</nom>
     <idioma>ca</idioma>
     <familia>Equinoderms</familia>
@@ -86,7 +86,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Present des d'aigües superficials fins a uns 50 metres de profunditat.</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="inv">
     <nom>Clathrina clathrus</nom>
     <idioma>ca</idioma>
     <familia>Invertebrats</familia>
@@ -100,7 +100,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="inv">
     <nom>Clathrina contorta</nom>
     <idioma>ca</idioma>
     <familia>Invertebrats</familia>
@@ -114,7 +114,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="inv">
     <nom>Guancha lacunosa</nom>
     <idioma>ca</idioma>
     <familia>Invertebrats</familia>
@@ -128,7 +128,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="inv">
     <nom>Leucosolenia variabilis</nom>
     <idioma>ca</idioma>
     <familia>Invertebrats</familia>
@@ -142,7 +142,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="inv">
     <nom>Paraleucilla magna</nom>
     <idioma>ca</idioma>
     <familia>Invertebrats</familia>
@@ -156,7 +156,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="mol">
     <nom>Peltodoris atromaculata</nom>
     <idioma>ca</idioma>
     <familia>Mol·luscs</familia>
@@ -170,7 +170,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="eq">
     <nom>Echinaster sepositus</nom>
     <idioma>ca</idioma>
     <familia>Estrelles de mar</familia>
@@ -184,7 +184,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="mol">
     <nom>Edmunsella pedata</nom>
     <idioma>ca</idioma>
     <familia>Mol·luscs</familia>
@@ -198,7 +198,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="mol">
     <nom>Antiopella cristata</nom>
     <idioma>ca</idioma>
     <familia>Mol·luscs</familia>
@@ -212,7 +212,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="mol">
     <nom>Felimida luteorosea</nom>
     <idioma>ca</idioma>
     <familia>Mol·luscs</familia>
@@ -226,7 +226,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="mol">
     <nom>Phyllidia flava</nom>
     <idioma>ca</idioma>
     <familia>Mol·luscs</familia>
@@ -240,7 +240,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="mol">
     <nom>Peltaster placenta</nom>
     <idioma>ca</idioma>
     <familia>Estrelles de mar</familia>
@@ -254,7 +254,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="eq">
     <nom>Astropecten aranciacus</nom>
     <idioma>ca</idioma>
     <familia>Estrelles de mar</familia>
@@ -268,7 +268,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="eq">
     <nom>Astrospartus mediterraneus</nom>
     <idioma>ca</idioma>
     <familia>Estrelles de mar</familia>
@@ -282,7 +282,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="eq">
     <nom>Ophiothrix fragilis</nom>
     <idioma>ca</idioma>
     <familia>Estrelles de mar</familia>
@@ -296,7 +296,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="pei">
     <nom>Carcharhinus plumbeus</nom>
     <idioma>ca</idioma>
     <familia>Peixos cartilaginosos</familia>
@@ -310,7 +310,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="pei">
     <nom>Scyliorhinus stellaris</nom>
     <idioma>ca</idioma>
     <familia>Peixos cartilaginosos</familia>
@@ -324,7 +324,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="pei">
     <nom>Myliobatis aquila</nom>
     <idioma>ca</idioma>
     <familia>Peixos cartilaginosos</familia>
@@ -338,7 +338,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="pei">
     <nom>Torpedo marmorata</nom>
     <idioma>ca</idioma>
     <familia>Peixos cartilaginosos</familia>
@@ -352,7 +352,7 @@ Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sem
       <caracteristica>Organisme</caracteristica>
     </caracteristiques>
   </especie>
-  <especie>
+  <especie grup="pei">
     <nom>Dasyatis pastinaca</nom>
     <idioma>ca</idioma>
     <familia>Peixos cartilaginosos</familia>
