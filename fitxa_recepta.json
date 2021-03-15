@@ -1,0 +1,60 @@
+{
+   "recepta": {
+      "nom": "Risotto de xampinyons",
+      "categoria": "Pasta",
+      "informacio_general": {
+         "foto": "https://drive.google.com/uc?export=view&id=1KTrSYnjUJ3Nh56VHZvujveX87zJNrBaK",
+         "comensals": "4",
+         "temps": {
+            "@unitat": "minutos",
+            "#text": "30"
+         },
+         "dificultat": "Baixa"
+      },
+      "ingredients": [
+         "400gr d'arròs",
+         "300gr de xampinyons",
+         "1 got de vi blanc",
+         "1 ceba petita",
+         "1l de brou de pollastre",
+         "1 cullerada petita de julivert picat",
+         "100gr de formatge ratllat parmigiano",
+         "75gr de mantega"
+      ],
+      "preparacio": [
+         {
+            "@numero": "1",
+            "#text": "En una paella, escalfem la mantega fins que aquesta es desfaci."
+         },
+         {
+            "@numero": "2",
+            "#text": "Piquem la ceba ben petita i la daurem amb la mantega."
+         },
+         {
+            "@numero": "3",
+            "#text": "Tallem els xampinyons a llàmines, incorporem i removem."
+         },
+         {
+            "@numero": "4",
+            "#text": "Quan els xampinyons estiguin daurats, afegirem l'arròs i remourem fins que absorbeixi tota la mantega."
+         },
+         {
+            "@numero": "5",
+            "#text": "Incorporem una mica de brou i removem fins que l'absorveixi."
+         },
+         {
+            "@numero": "6",
+            "#text": "Repetim el pas anterior, de mica en mica, fins que no quedi brou."
+         },
+         {
+            "@numero": "7",
+            "#text": "Incorporem el formatge i el julivert i removem."
+         },
+         {
+            "@numero": "8",
+            "#text": "Deixem reposar uns minuts i servim."
+         }
+      ]
+   }
+}
+
