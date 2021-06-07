@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <row _id="row-i247-nr6v-ixu4" _uuid="00000000-0000-0000-8E6A-E117FD889E74" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-i247-nr6v-ixu4">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2004</any>
+        <formaci_dones>33</formaci_dones>
+        <formaci_homes>27</formaci_homes>
+        <import_formaci_k>784.50</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>1</incorporaci_homes>
+        <import_incorporaci_k>9.60</import_incorporaci_k>
+        <mobilitat_dones>4</mobilitat_dones>
+        <mobilitat_homes>4</mobilitat_homes>
+        <import_mobilitat_k>86.10</import_mobilitat_k>
+    </row>
+    <row _id="row-jgx3-any4_38n5" _uuid="00000000-0000-0000-E8A6-DC0E249D5F1C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-jgx3-any4_38n5">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2004</any>
+        <formaci_dones>13</formaci_dones>
+        <formaci_homes>9</formaci_homes>
+        <import_formaci_k>268.40</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>1</mobilitat_dones>
+        <mobilitat_homes>2</mobilitat_homes>
+        <import_mobilitat_k>18.50</import_mobilitat_k>
+    </row>
+    <row _id="row-ygjn-ssmu-cdyw" _uuid="00000000-0000-0000-7484-BBF71BDCB018" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-ygjn-ssmu-cdyw">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2004</any>
+        <formaci_dones>20</formaci_dones>
+        <formaci_homes>30</formaci_homes>
+        <import_formaci_k>450.30</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>20</mobilitat_dones>
+        <mobilitat_homes>29</mobilitat_homes>
+        <import_mobilitat_k>419.90</import_mobilitat_k>
+    </row>
+    <row _id="row-n6aw_3v39-ztxw" _uuid="00000000-0000-0000-02B6-5B9CD796AEFD" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-n6aw_3v39-ztxw">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2005</any>
+        <formaci_dones>469</formaci_dones>
+        <formaci_homes>459</formaci_homes>
+        <import_formaci_k>15033.30</import_formaci_k>
+        <incorporaci_dones>10</incorporaci_dones>
+        <incorporaci_homes>26</incorporaci_homes>
+        <import_incorporaci_k>608.30</import_incorporaci_k>
+        <mobilitat_dones>146</mobilitat_dones>
+        <mobilitat_homes>178</mobilitat_homes>
+        <import_mobilitat_k>1919.20</import_mobilitat_k>
+    </row>
+    <row _id="row-axy5_rywz_2d7s" _uuid="00000000-0000-0000-4378-1413A5080304" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-axy5_rywz_2d7s">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2005</any>
+        <formaci_dones>30</formaci_dones>
+        <formaci_homes>9</formaci_homes>
+        <import_formaci_k>643.30</import_formaci_k>
+        <incorporaci_dones>3</incorporaci_dones>
+        <incorporaci_homes>9</incorporaci_homes>
+        <import_incorporaci_k>175.40</import_incorporaci_k>
+        <mobilitat_dones>11</mobilitat_dones>
+        <mobilitat_homes>6</mobilitat_homes>
+        <import_mobilitat_k>97.90</import_mobilitat_k>
+    </row>
+    <row _id="row-64sf_hbpq_mxvn" _uuid="00000000-0000-0000-3244-D9936BB2E2C7" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-64sf_hbpq_mxvn">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2005</any>
+        <formaci_dones>15</formaci_dones>
+        <formaci_homes>5</formaci_homes>
+        <import_formaci_k>408.80</import_formaci_k>
+        <incorporaci_dones>1</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>14.90</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>2</mobilitat_homes>
+        <import_mobilitat_k>5.00</import_mobilitat_k>
+    </row>
+    <row _id="row-5ten_qpcs-jshm" _uuid="00000000-0000-0000-3E0C-748B552DE6A8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-5ten_qpcs-jshm">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2005</any>
+        <formaci_dones>4</formaci_dones>
+        <formaci_homes>2</formaci_homes>
+        <import_formaci_k>51.50</import_formaci_k>
+        <incorporaci_dones>1</incorporaci_dones>
+        <incorporaci_homes>1</incorporaci_homes>
+        <import_incorporaci_k>60.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-v9nz~f9zz-9ez7" _uuid="00000000-0000-0000-CBE6-D604821881A7" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-v9nz~f9zz-9ez7">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2006</any>
+        <formaci_dones>482</formaci_dones>
+        <formaci_homes>448</formaci_homes>
+        <import_formaci_k>15258.30</import_formaci_k>
+        <incorporaci_dones>4</incorporaci_dones>
+        <incorporaci_homes>26</incorporaci_homes>
+        <import_incorporaci_k>414.91</import_incorporaci_k>
+        <mobilitat_dones>163</mobilitat_dones>
+        <mobilitat_homes>153</mobilitat_homes>
+        <import_mobilitat_k>1962.90</import_mobilitat_k>
+    </row>
+    <row _id="row-9kjk~7aa6_3zr6" _uuid="00000000-0000-0000-D19B-478C22226575" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-9kjk~7aa6_3zr6">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2006</any>
+        <formaci_dones>35</formaci_dones>
+        <formaci_homes>17</formaci_homes>
+        <import_formaci_k>822.50</import_formaci_k>
+        <incorporaci_dones>1</incorporaci_dones>
+        <incorporaci_homes>3</incorporaci_homes>
+        <import_incorporaci_k>42.00</import_incorporaci_k>
+        <mobilitat_dones>12</mobilitat_dones>
+        <mobilitat_homes>10</mobilitat_homes>
+        <import_mobilitat_k>97.00</import_mobilitat_k>
+    </row>
+    <row _id="row-5xhr-gpzd-jitm" _uuid="00000000-0000-0000-5BCA-AB6AE3829AEB" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-5xhr-gpzd-jitm">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2006</any>
+        <formaci_dones>31</formaci_dones>
+        <formaci_homes>11</formaci_homes>
+        <import_formaci_k>851.70</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>5</mobilitat_dones>
+        <mobilitat_homes>3</mobilitat_homes>
+        <import_mobilitat_k>55.00</import_mobilitat_k>
+    </row>
+    <row _id="row-4krp~83jd_a683" _uuid="00000000-0000-0000-832A-45CF8A9A9375" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-4krp~83jd_a683">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2006</any>
+        <formaci_dones>9</formaci_dones>
+        <formaci_homes>18</formaci_homes>
+        <import_formaci_k>393.98</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>1</incorporaci_homes>
+        <import_incorporaci_k>27.37</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-nxar_tz5h.s5zk" _uuid="00000000-0000-0000-7D67-BEC53D34A941" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-nxar_tz5h.s5zk">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2007</any>
+        <formaci_dones>394</formaci_dones>
+        <formaci_homes>356</formaci_homes>
+        <import_formaci_k>13801.30</import_formaci_k>
+        <incorporaci_dones>4</incorporaci_dones>
+        <incorporaci_homes>18</incorporaci_homes>
+        <import_incorporaci_k>310.20</import_incorporaci_k>
+        <mobilitat_dones>136</mobilitat_dones>
+        <mobilitat_homes>128</mobilitat_homes>
+        <import_mobilitat_k>1605.70</import_mobilitat_k>
+    </row>
+    <row _id="row-p4r2_rwdg~xcev" _uuid="00000000-0000-0000-A4BD-E2E4AA0E78F4" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-p4r2_rwdg~xcev">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2007</any>
+        <formaci_dones>26</formaci_dones>
+        <formaci_homes>18</formaci_homes>
+        <import_formaci_k>1225.60</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>3</incorporaci_homes>
+        <import_incorporaci_k>49.60</import_incorporaci_k>
+        <mobilitat_dones>11</mobilitat_dones>
+        <mobilitat_homes>6</mobilitat_homes>
+        <import_mobilitat_k>154.40</import_mobilitat_k>
+    </row>
+    <row _id="row-r23i.vjjh_qdqs" _uuid="00000000-0000-0000-276A-2D642EF39A70" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-r23i.vjjh_qdqs">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2007</any>
+        <formaci_dones>26</formaci_dones>
+        <formaci_homes>10</formaci_homes>
+        <import_formaci_k>656.00</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>3</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>35.60</import_mobilitat_k>
+    </row>
+    <row _id="row-kry5-m5u4_7ein" _uuid="00000000-0000-0000-0FF9-A470B6AD977C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-kry5-m5u4_7ein">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2007</any>
+        <formaci_dones>13</formaci_dones>
+        <formaci_homes>28</formaci_homes>
+        <import_formaci_k>661.80</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>1</incorporaci_homes>
+        <import_incorporaci_k>27.40</import_incorporaci_k>
+        <mobilitat_dones>10</mobilitat_dones>
+        <mobilitat_homes>15</mobilitat_homes>
+        <import_mobilitat_k>67.50</import_mobilitat_k>
+    </row>
+    <row _id="row-m2uk_3zua_8stp" _uuid="00000000-0000-0000-2175-D31B955A645F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-m2uk_3zua_8stp">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2008</any>
+        <formaci_dones>364</formaci_dones>
+        <formaci_homes>354</formaci_homes>
+        <import_formaci_k>15599.50</import_formaci_k>
+        <incorporaci_dones>11</incorporaci_dones>
+        <incorporaci_homes>25</incorporaci_homes>
+        <import_incorporaci_k>364.60</import_incorporaci_k>
+        <mobilitat_dones>149</mobilitat_dones>
+        <mobilitat_homes>152</mobilitat_homes>
+        <import_mobilitat_k>2495.60</import_mobilitat_k>
+    </row>
+    <row _id="row-byfv.ryhb-57sq" _uuid="00000000-0000-0000-5BF8-1F087642E950" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-byfv.ryhb-57sq">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2008</any>
+        <formaci_dones>1</formaci_dones>
+        <formaci_homes>2</formaci_homes>
+        <import_formaci_k>58.30</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>1</mobilitat_dones>
+        <mobilitat_homes>4</mobilitat_homes>
+        <import_mobilitat_k>22.80</import_mobilitat_k>
+    </row>
+    <row _id="row-u2v3.4b9d-jtzt" _uuid="00000000-0000-0000-8913-3255F564AD57" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-u2v3.4b9d-jtzt">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2008</any>
+        <formaci_dones>35</formaci_dones>
+        <formaci_homes>14</formaci_homes>
+        <import_formaci_k>1144.80</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>7</mobilitat_dones>
+        <mobilitat_homes>1</mobilitat_homes>
+        <import_mobilitat_k>48.10</import_mobilitat_k>
+    </row>
+    <row _id="row-uxn2_pznq-7kmt" _uuid="00000000-0000-0000-B6D3-6389BCC1B836" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-uxn2_pznq-7kmt">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2008</any>
+        <formaci_dones>11</formaci_dones>
+        <formaci_homes>12</formaci_homes>
+        <import_formaci_k>678.40</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>29</mobilitat_dones>
+        <mobilitat_homes>18</mobilitat_homes>
+        <import_mobilitat_k>297.30</import_mobilitat_k>
+    </row>
+    <row _id="row-kt9d~m877_2bwj" _uuid="00000000-0000-0000-91DC-82F540306245" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-kt9d~m877_2bwj">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2009</any>
+        <formaci_dones>337</formaci_dones>
+        <formaci_homes>345</formaci_homes>
+        <import_formaci_k>16180.39</import_formaci_k>
+        <incorporaci_dones>8</incorporaci_dones>
+        <incorporaci_homes>30</incorporaci_homes>
+        <import_incorporaci_k>304.80</import_incorporaci_k>
+        <mobilitat_dones>113</mobilitat_dones>
+        <mobilitat_homes>136</mobilitat_homes>
+        <import_mobilitat_k>2034.80</import_mobilitat_k>
+    </row>
+    <row _id="row-ae8t-5auf_twc8" _uuid="00000000-0000-0000-6DFE-C7771BDB03E2" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-ae8t-5auf_twc8">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2009</any>
+        <formaci_homes>1</formaci_homes>
+        <import_formaci_k>43.90</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-8csj~htim.zfbk" _uuid="00000000-0000-0000-E1CC-1BCA3782AA6F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-8csj~htim.zfbk">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2009</any>
+        <formaci_dones>29</formaci_dones>
+        <formaci_homes>12</formaci_homes>
+        <import_formaci_k>973.94</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>3</mobilitat_dones>
+        <mobilitat_homes>6</mobilitat_homes>
+        <import_mobilitat_k>54.90</import_mobilitat_k>
+    </row>
+    <row _id="row-cinn.39wd.rg9k" _uuid="00000000-0000-0000-7DEF-2E1E84F9EF60" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-cinn.39wd.rg9k">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2009</any>
+        <formaci_dones>8</formaci_dones>
+        <formaci_homes>26</formaci_homes>
+        <import_formaci_k>1603.43</import_formaci_k>
+        <incorporaci_dones>1</incorporaci_dones>
+        <incorporaci_homes>1</incorporaci_homes>
+        <import_incorporaci_k>58.50</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>3</mobilitat_homes>
+        <import_mobilitat_k>17.00</import_mobilitat_k>
+    </row>
+    <row _id="row-3wev~sfwk~tuek" _uuid="00000000-0000-0000-49C8-A58FE42819E3" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-3wev~sfwk~tuek">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2010</any>
+        <formaci_dones>366</formaci_dones>
+        <formaci_homes>372</formaci_homes>
+        <import_formaci_k>18750.19</import_formaci_k>
+        <incorporaci_dones>9</incorporaci_dones>
+        <incorporaci_homes>26</incorporaci_homes>
+        <import_incorporaci_k>313.42</import_incorporaci_k>
+        <mobilitat_dones>128</mobilitat_dones>
+        <mobilitat_homes>122</mobilitat_homes>
+        <import_mobilitat_k>1757.87</import_mobilitat_k>
+    </row>
+    <row _id="row-iqbv~nv32~n467" _uuid="00000000-0000-0000-B947-E923714B5098" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-iqbv~nv32~n467">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2010</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>1</formaci_homes>
+        <import_formaci_k>10.45</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>3</incorporaci_homes>
+        <import_incorporaci_k>37.97</import_incorporaci_k>
+        <mobilitat_dones>1</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>8.60</import_mobilitat_k>
+    </row>
+    <row _id="row-an98~qaee_kumr" _uuid="00000000-0000-0000-3E82-7B09C23CA63F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-an98~qaee_kumr">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2010</any>
+        <formaci_dones>32</formaci_dones>
+        <formaci_homes>10</formaci_homes>
+        <import_formaci_k>1084.97</import_formaci_k>
+        <incorporaci_dones>1</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>3.41</import_incorporaci_k>
+        <mobilitat_dones>10</mobilitat_dones>
+        <mobilitat_homes>8</mobilitat_homes>
+        <import_mobilitat_k>112.04</import_mobilitat_k>
+    </row>
+    <row _id="row-pjhv-kxxh~xxxu" _uuid="00000000-0000-0000-5757-72D864080AC9" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-pjhv-kxxh~xxxu">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2010</any>
+        <formaci_dones>1</formaci_dones>
+        <formaci_homes>5</formaci_homes>
+        <import_formaci_k>83.55</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>1</incorporaci_homes>
+        <import_incorporaci_k>14.66</import_incorporaci_k>
+        <mobilitat_dones>4</mobilitat_dones>
+        <mobilitat_homes>1</mobilitat_homes>
+        <import_mobilitat_k>30.27</import_mobilitat_k>
+    </row>
+    <row _id="row-wy2d_qfiw.hki9" _uuid="00000000-0000-0000-1F76-16FE4313B78E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-wy2d_qfiw.hki9">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2011</any>
+        <formaci_dones>364</formaci_dones>
+        <formaci_homes>352</formaci_homes>
+        <import_formaci_k>19641.01</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>104</mobilitat_dones>
+        <mobilitat_homes>114</mobilitat_homes>
+        <import_mobilitat_k>1508.72</import_mobilitat_k>
+    </row>
+    <row _id="row-5yfq.z7am~5jeq" _uuid="00000000-0000-0000-6105-DFC3A2DF21B5" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-5yfq.z7am~5jeq">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2011</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>0</formaci_homes>
+        <import_formaci_k>0.00</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>1</mobilitat_dones>
+        <mobilitat_homes>1</mobilitat_homes>
+        <import_mobilitat_k>15.89</import_mobilitat_k>
+    </row>
+    <row _id="row-484j~ycmw~d8u7" _uuid="00000000-0000-0000-B852-A74DC88CE7B2" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-484j~ycmw~d8u7">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2011</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>0</formaci_homes>
+        <import_formaci_k>0.00</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-7fes-ejxq_6f24" _uuid="00000000-0000-0000-477E-EDE5719842FF" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-7fes-ejxq_6f24">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2011</any>
+        <formaci_dones>2</formaci_dones>
+        <formaci_homes>1</formaci_homes>
+        <import_formaci_k>176.08</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-z8gr~h2ve_nmr8" _uuid="00000000-0000-0000-3C76-0A884A398D5A" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-z8gr~h2ve_nmr8">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2012</any>
+        <formaci_dones>446</formaci_dones>
+        <formaci_homes>359</formaci_homes>
+        <import_formaci_k>13116.60</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>98</mobilitat_dones>
+        <mobilitat_homes>128</mobilitat_homes>
+        <import_mobilitat_k>1636.50</import_mobilitat_k>
+    </row>
+    <row _id="row-xre7-pg8y_p23k" _uuid="00000000-0000-0000-AC08-40B6E72F42A0" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-xre7-pg8y_p23k">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2012</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>0</formaci_homes>
+        <import_formaci_k>0.00</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>1</mobilitat_homes>
+        <import_mobilitat_k>7.20</import_mobilitat_k>
+    </row>
+    <row _id="row-544v~b5s7_gk9a" _uuid="00000000-0000-0000-1EAD-03B9F00D1BDF" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-544v~b5s7_gk9a">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2012</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>0</formaci_homes>
+        <import_formaci_k>0.00</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-encv.p9fz_97xy" _uuid="00000000-0000-0000-1BD3-C2742C9D60FE" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-encv.p9fz_97xy">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2012</any>
+        <formaci_dones>12</formaci_dones>
+        <formaci_homes>6</formaci_homes>
+        <import_formaci_k>367.70</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>7</mobilitat_dones>
+        <mobilitat_homes>8</mobilitat_homes>
+        <import_mobilitat_k>76.80</import_mobilitat_k>
+    </row>
+    <row _id="row-9idw~kgsp_pdt5" _uuid="00000000-0000-0000-80F0-06DA2851846F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-9idw~kgsp_pdt5">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2013</any>
+        <formaci_dones>460</formaci_dones>
+        <formaci_homes>392</formaci_homes>
+        <import_formaci_k>14197.18</import_formaci_k>
+        <incorporaci_dones>53</incorporaci_dones>
+        <incorporaci_homes>113</incorporaci_homes>
+        <import_incorporaci_k>500.50</import_incorporaci_k>
+        <mobilitat_dones>41</mobilitat_dones>
+        <mobilitat_homes>52</mobilitat_homes>
+        <import_mobilitat_k>578.06</import_mobilitat_k>
+    </row>
+    <row _id="row-dqwq~9ufe-5p8n" _uuid="00000000-0000-0000-2010-7389D09BDCCF" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-dqwq~9ufe-5p8n">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2013</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>4</formaci_homes>
+        <import_formaci_k>58.38</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>5</mobilitat_dones>
+        <mobilitat_homes>11</mobilitat_homes>
+        <import_mobilitat_k>999.27</import_mobilitat_k>
+    </row>
+    <row _id="row-39rt_7zhp.i6hu" _uuid="00000000-0000-0000-0194-CBE71087E5CB" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-39rt_7zhp.i6hu">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2013</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>0</formaci_homes>
+        <import_formaci_k>0.00</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>1</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>12.89</import_mobilitat_k>
+    </row>
+    <row _id="row-f56v_k5ub.4447" _uuid="00000000-0000-0000-8508-67AC876E65F3" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-f56v_k5ub.4447">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2013</any>
+        <formaci_dones>56</formaci_dones>
+        <formaci_homes>54</formaci_homes>
+        <import_formaci_k>508.89</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>1</mobilitat_homes>
+        <import_mobilitat_k>6.31</import_mobilitat_k>
+    </row>
+    <row _id="row-68iu_zjdi~ajgt" _uuid="00000000-0000-0000-675A-C96792714AB3" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-68iu_zjdi~ajgt">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2014</any>
+        <formaci_dones>386</formaci_dones>
+        <formaci_homes>327</formaci_homes>
+        <import_formaci_k>17090.91</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>19</mobilitat_dones>
+        <mobilitat_homes>32</mobilitat_homes>
+        <import_mobilitat_k>439.51</import_mobilitat_k>
+    </row>
+    <row _id="row-v3k2.6scv_vtxn" _uuid="00000000-0000-0000-6FCF-2A68139B724B" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-v3k2.6scv_vtxn">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2014</any>
+        <formaci_dones>14</formaci_dones>
+        <formaci_homes>14</formaci_homes>
+        <import_formaci_k>480.73</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>23</mobilitat_dones>
+        <mobilitat_homes>35</mobilitat_homes>
+        <import_mobilitat_k>178.69</import_mobilitat_k>
+    </row>
+    <row _id="row-batm_bs46~wezp" _uuid="00000000-0000-0000-F797-4DDD416108CC" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-batm_bs46~wezp">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2014</any>
+        <formaci_dones>6</formaci_dones>
+        <formaci_homes>4</formaci_homes>
+        <import_formaci_k>277.63</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-8xsy-zqnv~kz6a" _uuid="00000000-0000-0000-31AE-D66BB4B25E90" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-8xsy-zqnv~kz6a">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2014</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>0</formaci_homes>
+        <import_formaci_k>0.00</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-8p26.m7nu~6yn4" _uuid="00000000-0000-0000-020F-18C3537C64D9" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-8p26.m7nu~6yn4">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2015</any>
+        <formaci_dones>113</formaci_dones>
+        <formaci_homes>58</formaci_homes>
+        <import_formaci_k>80.47</import_formaci_k>
+        <incorporaci_dones>20</incorporaci_dones>
+        <incorporaci_homes>47</incorporaci_homes>
+        <import_incorporaci_k>3710.52</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-va98.mfgb.nwbi" _uuid="00000000-0000-0000-6761-30B3A8D55E29" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-va98.mfgb.nwbi">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2015</any>
+        <formaci_dones>1</formaci_dones>
+        <formaci_homes>2</formaci_homes>
+        <import_formaci_k>25.42</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>2055.85</import_mobilitat_k>
+    </row>
+    <row _id="row-r6xe-783y.8asn" _uuid="00000000-0000-0000-57BC-62D288BC1C3C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-r6xe-783y.8asn">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2015</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>0</formaci_homes>
+        <import_formaci_k>0.00</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-2i2f~s8q4-yb6v" _uuid="00000000-0000-0000-DD2B-5C08FB09BA98" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-2i2f~s8q4-yb6v">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2015</any>
+        <formaci_dones>30</formaci_dones>
+        <formaci_homes>49</formaci_homes>
+        <import_formaci_k>214.98</import_formaci_k>
+        <incorporaci_dones>6</incorporaci_dones>
+        <incorporaci_homes>15</incorporaci_homes>
+        <import_incorporaci_k>355.17</import_incorporaci_k>
+        <mobilitat_dones>32</mobilitat_dones>
+        <mobilitat_homes>47</mobilitat_homes>
+        <import_mobilitat_k>2374.79</import_mobilitat_k>
+    </row>
+    <row _id="row-6i4i~4ye5~uw8s" _uuid="00000000-0000-0000-35C3-E12F256BA21E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-6i4i~4ye5~uw8s">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2016</any>
+        <formaci_dones>346</formaci_dones>
+        <formaci_homes>330</formaci_homes>
+        <import_formaci_k>9968.54</import_formaci_k>
+        <incorporaci_dones>11</incorporaci_dones>
+        <incorporaci_homes>17</incorporaci_homes>
+        <import_incorporaci_k>944.54</import_incorporaci_k>
+        <mobilitat_dones>2</mobilitat_dones>
+        <mobilitat_homes>2</mobilitat_homes>
+        <import_mobilitat_k>64.15</import_mobilitat_k>
+    </row>
+    <row _id="row-97d7_gx26_6mq6" _uuid="00000000-0000-0000-B6C5-43B541874F05" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-97d7_gx26_6mq6">
+        <tipus_de_centres>CSIC i altres centres d'R+D+I</tipus_de_centres>
+        <any>2016</any>
+        <formaci_dones>1</formaci_dones>
+        <formaci_homes>5</formaci_homes>
+        <import_formaci_k>97.92</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-nwp5.vy7q~bnqk" _uuid="00000000-0000-0000-F9F0-BA40A2030D26" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-nwp5.vy7q~bnqk">
+        <tipus_de_centres>Hospitals i fundacions hospitalàries</tipus_de_centres>
+        <any>2016</any>
+        <formaci_dones>2</formaci_dones>
+        <formaci_homes>1</formaci_homes>
+        <import_formaci_k>60.47</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0.00</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0.00</import_mobilitat_k>
+    </row>
+    <row _id="row-awnk.xh5y_wuy7" _uuid="00000000-0000-0000-3CBB-74491BA3F08E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-awnk.xh5y_wuy7">
+        <tipus_de_centres>Altres entitats</tipus_de_centres>
+        <any>2016</any>
+        <formaci_dones>38</formaci_dones>
+        <formaci_homes>47</formaci_homes>
+        <import_formaci_k>382.05</import_formaci_k>
+        <incorporaci_dones>6</incorporaci_dones>
+        <incorporaci_homes>13</incorporaci_homes>
+        <import_incorporaci_k>126.65</import_incorporaci_k>
+        <mobilitat_dones>25</mobilitat_dones>
+        <mobilitat_homes>31</mobilitat_homes>
+        <import_mobilitat_k>636.12</import_mobilitat_k>
+    </row>
+    <row _id="row-ztj2~sky9~uehr" _uuid="00000000-0000-0000-94DD-04DCC484CBCB" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-ztj2~sky9~uehr">
+        <tipus_de_centres>Universitats</tipus_de_centres>
+        <any>2004</any>
+        <formaci_dones>370</formaci_dones>
+        <formaci_homes>421</formaci_homes>
+        <import_formaci_k>10626.30</import_formaci_k>
+        <incorporaci_dones>9</incorporaci_dones>
+        <incorporaci_homes>23</incorporaci_homes>
+        <import_incorporaci_k>455.90</import_incorporaci_k>
+        <mobilitat_dones>28</mobilitat_dones>
+        <mobilitat_homes>43</mobilitat_homes>
+        <import_mobilitat_k>914.40</import_mobilitat_k>
+    </row>
+    <row _id="row-at7u.g68w~ykyd" _uuid="00000000-0000-0000-E80F-0A00125D220B" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-at7u.g68w~ykyd">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2011</any>
+        <formaci_dones>74</formaci_dones>
+        <formaci_homes>57</formaci_homes>
+        <import_formaci_k>2645.6</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>21</mobilitat_dones>
+        <mobilitat_homes>22</mobilitat_homes>
+        <import_mobilitat_k>263.7</import_mobilitat_k>
+    </row>
+    <row _id="row-7jjd-3kzy-42vf" _uuid="00000000-0000-0000-F969-BA3528246E4E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-7jjd-3kzy-42vf">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2013</any>
+        <formaci_dones>68</formaci_dones>
+        <formaci_homes>59</formaci_homes>
+        <import_formaci_k>2518.28</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>6</incorporaci_homes>
+        <import_incorporaci_k>17.1</import_incorporaci_k>
+        <mobilitat_dones>12</mobilitat_dones>
+        <mobilitat_homes>17</mobilitat_homes>
+        <import_mobilitat_k>315.71</import_mobilitat_k>
+    </row>
+    <row _id="row-fzuv~wcs2_zjxw" _uuid="00000000-0000-0000-767E-9741996570F5" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-fzuv~wcs2_zjxw">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2016</any>
+        <formaci_dones>71</formaci_dones>
+        <formaci_homes>57</formaci_homes>
+        <import_formaci_k>2670.64</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>2</incorporaci_homes>
+        <import_incorporaci_k>177.51</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-ppv8_yed5~jm2c" _uuid="00000000-0000-0000-1F56-4E631C7EDDB7" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-ppv8_yed5~jm2c">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2008</any>
+        <formaci_dones>57</formaci_dones>
+        <formaci_homes>65</formaci_homes>
+        <import_formaci_k>3512.5</import_formaci_k>
+        <incorporaci_dones>4</incorporaci_dones>
+        <incorporaci_homes>14</incorporaci_homes>
+        <import_incorporaci_k>184</import_incorporaci_k>
+        <mobilitat_dones>10</mobilitat_dones>
+        <mobilitat_homes>20</mobilitat_homes>
+        <import_mobilitat_k>167.7</import_mobilitat_k>
+    </row>
+    <row _id="row-agey.9g5x_ygn2" _uuid="00000000-0000-0000-5E06-52D4C49AEE70" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-agey.9g5x_ygn2">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2009</any>
+        <formaci_dones>13</formaci_dones>
+        <formaci_homes>37</formaci_homes>
+        <import_formaci_k>2138.16</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-cr8h-n4g7.jxbv" _uuid="00000000-0000-0000-917C-51559258AAF5" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-cr8h-n4g7.jxbv">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2006</any>
+        <formaci_dones>63</formaci_dones>
+        <formaci_homes>58</formaci_homes>
+        <import_formaci_k>2188.5</import_formaci_k>
+        <incorporaci_dones>1</incorporaci_dones>
+        <incorporaci_homes>4</incorporaci_homes>
+        <import_incorporaci_k>55.16</import_incorporaci_k>
+        <mobilitat_dones>9</mobilitat_dones>
+        <mobilitat_homes>14</mobilitat_homes>
+        <import_mobilitat_k>115.9</import_mobilitat_k>
+    </row>
+    <row _id="row-e66u_xfju-mtg5" _uuid="00000000-0000-0000-B3D5-253CABC26789" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-e66u_xfju-mtg5">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2009</any>
+        <formaci_dones>47</formaci_dones>
+        <formaci_homes>58</formaci_homes>
+        <import_formaci_k>3242.88</import_formaci_k>
+        <incorporaci_dones>4</incorporaci_dones>
+        <incorporaci_homes>11</incorporaci_homes>
+        <import_incorporaci_k>138.7</import_incorporaci_k>
+        <mobilitat_dones>17</mobilitat_dones>
+        <mobilitat_homes>14</mobilitat_homes>
+        <import_mobilitat_k>181.4</import_mobilitat_k>
+    </row>
+    <row _id="row-uqnd_zdaf.f7mq" _uuid="00000000-0000-0000-829E-CD18055064A3" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-uqnd_zdaf.f7mq">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2011</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>0</formaci_homes>
+        <import_formaci_k>0</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-6hd3-ccxm-cju4" _uuid="00000000-0000-0000-D066-F6188792A1CB" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-6hd3-ccxm-cju4">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2010</any>
+        <formaci_dones>54</formaci_dones>
+        <formaci_homes>68</formaci_homes>
+        <import_formaci_k>3578.98</import_formaci_k>
+        <incorporaci_dones>4</incorporaci_dones>
+        <incorporaci_homes>14</incorporaci_homes>
+        <import_incorporaci_k>225.72</import_incorporaci_k>
+        <mobilitat_dones>17</mobilitat_dones>
+        <mobilitat_homes>21</mobilitat_homes>
+        <import_mobilitat_k>254.42</import_mobilitat_k>
+    </row>
+    <row _id="row-pgwj.id69_p9fq" _uuid="00000000-0000-0000-F10A-10074882E8A5" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-pgwj.id69_p9fq">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2008</any>
+        <formaci_dones>10</formaci_dones>
+        <formaci_homes>25</formaci_homes>
+        <import_formaci_k>350</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-ijsi.h76g-jtt5" _uuid="00000000-0000-0000-882F-31A1D9AF01A3" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-ijsi.h76g-jtt5">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2010</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>7</formaci_homes>
+        <import_formaci_k>73.15</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-8nu9.pggh-8n7h" _uuid="00000000-0000-0000-2051-3787E916D59C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-8nu9.pggh-8n7h">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2005</any>
+        <formaci_dones>55</formaci_dones>
+        <formaci_homes>51</formaci_homes>
+        <import_formaci_k>1732.8</import_formaci_k>
+        <incorporaci_dones>2</incorporaci_dones>
+        <incorporaci_homes>6</incorporaci_homes>
+        <import_incorporaci_k>191.4</import_incorporaci_k>
+        <mobilitat_dones>15</mobilitat_dones>
+        <mobilitat_homes>13</mobilitat_homes>
+        <import_mobilitat_k>86.3</import_mobilitat_k>
+    </row>
+    <row _id="row-u2z3.3e3i.wb8v" _uuid="00000000-0000-0000-06B1-1010D2B7AD27" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-u2z3.3e3i.wb8v">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2006</any>
+        <formaci_dones>30</formaci_dones>
+        <formaci_homes>54</formaci_homes>
+        <import_formaci_k>1762.3</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-ec85_a7ic.34b9" _uuid="00000000-0000-0000-00F8-85804B6C8A47" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-ec85_a7ic.34b9">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2015</any>
+        <formaci_dones>39</formaci_dones>
+        <formaci_homes>45</formaci_homes>
+        <import_formaci_k>4017.26</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-bwvd-6xmf-7f9n" _uuid="00000000-0000-0000-A87E-F1558D51CFB1" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-bwvd-6xmf-7f9n">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2012</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>0</formaci_homes>
+        <import_formaci_k>0</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-j7n8~hw4a-zwq9" _uuid="00000000-0000-0000-EEF1-52AC2A5B289C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-j7n8~hw4a-zwq9">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2004</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>0</formaci_homes>
+        <import_formaci_k>0</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-zvqi-fr4a-qf9r" _uuid="00000000-0000-0000-B8F6-E7E131935713" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-zvqi-fr4a-qf9r">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2004</any>
+        <formaci_dones>58</formaci_dones>
+        <formaci_homes>46</formaci_homes>
+        <import_formaci_k>1523.7</import_formaci_k>
+        <incorporaci_dones>1</incorporaci_dones>
+        <incorporaci_homes>6</incorporaci_homes>
+        <import_incorporaci_k>81.8</import_incorporaci_k>
+        <mobilitat_dones>4</mobilitat_dones>
+        <mobilitat_homes>4</mobilitat_homes>
+        <import_mobilitat_k>101</import_mobilitat_k>
+    </row>
+    <row _id="row-zfzy-94ya-sead" _uuid="00000000-0000-0000-2838-F97630A89CE3" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-zfzy-94ya-sead">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2014</any>
+        <formaci_dones>77</formaci_dones>
+        <formaci_homes>72</formaci_homes>
+        <import_formaci_k>5115.25</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>3</mobilitat_homes>
+        <import_mobilitat_k>18.5</import_mobilitat_k>
+    </row>
+    <row _id="row-4ch7-ngnb-dwte" _uuid="00000000-0000-0000-D536-61E46C09DE01" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-4ch7-ngnb-dwte">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2005</any>
+        <formaci_dones>0</formaci_dones>
+        <formaci_homes>0</formaci_homes>
+        <import_formaci_k>0</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-p72j_8p8w.zkhz" _uuid="00000000-0000-0000-6A37-0B48BF97F359" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-p72j_8p8w.zkhz">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2007</any>
+        <formaci_dones>25</formaci_dones>
+        <formaci_homes>73</formaci_homes>
+        <import_formaci_k>1867.5</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-2c58~z2vb-aeux" _uuid="00000000-0000-0000-0B12-2CE32C843D2A" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-2c58~z2vb-aeux">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2007</any>
+        <formaci_dones>47</formaci_dones>
+        <formaci_homes>55</formaci_homes>
+        <import_formaci_k>2709.7</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>8</incorporaci_homes>
+        <import_incorporaci_k>141.2</import_incorporaci_k>
+        <mobilitat_dones>7</mobilitat_dones>
+        <mobilitat_homes>6</mobilitat_homes>
+        <import_mobilitat_k>72.9</import_mobilitat_k>
+    </row>
+    <row _id="row-qqf6-endj-58i4" _uuid="00000000-0000-0000-8FDB-7685BC6EF962" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-qqf6-endj-58i4">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2013</any>
+        <formaci_dones>5</formaci_dones>
+        <formaci_homes>48</formaci_homes>
+        <import_formaci_k>824.09</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-kpza-kuf9.z9rd" _uuid="00000000-0000-0000-CFBE-D47B09385BB5" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-kpza-kuf9.z9rd">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2016</any>
+        <formaci_dones>33</formaci_dones>
+        <formaci_homes>46</formaci_homes>
+        <import_formaci_k>4144.56</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-hfe3_g9eu-2474" _uuid="00000000-0000-0000-5788-CA7D50C89143" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-hfe3_g9eu-2474">
+        <tipus_de_centres>Empreses</tipus_de_centres>
+        <any>2014</any>
+        <formaci_dones>28</formaci_dones>
+        <formaci_homes>55</formaci_homes>
+        <import_formaci_k>2152.09</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-rbpa~65n5-fqfu" _uuid="00000000-0000-0000-848D-A9C44D911258" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-rbpa~65n5-fqfu">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2015</any>
+        <formaci_dones>6</formaci_dones>
+        <formaci_homes>8</formaci_homes>
+        <import_formaci_k>219.34</import_formaci_k>
+        <incorporaci_dones>12</incorporaci_dones>
+        <incorporaci_homes>32</incorporaci_homes>
+        <import_incorporaci_k>3744.76</import_incorporaci_k>
+        <mobilitat_dones>0</mobilitat_dones>
+        <mobilitat_homes>0</mobilitat_homes>
+        <import_mobilitat_k>0</import_mobilitat_k>
+    </row>
+    <row _id="row-d8x9-7wqv~v58p" _uuid="00000000-0000-0000-0F94-61DD9842EB55" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/rsgi-8ymj/row-d8x9-7wqv~v58p">
+        <tipus_de_centres>Centres de recerca de la Generalitat de Catalunya</tipus_de_centres>
+        <any>2012</any>
+        <formaci_dones>69</formaci_dones>
+        <formaci_homes>49</formaci_homes>
+        <import_formaci_k>2328.2</import_formaci_k>
+        <incorporaci_dones>0</incorporaci_dones>
+        <incorporaci_homes>0</incorporaci_homes>
+        <import_incorporaci_k>0</import_incorporaci_k>
+        <mobilitat_dones>27</mobilitat_dones>
+        <mobilitat_homes>22</mobilitat_homes>
+        <import_mobilitat_k>312.1</import_mobilitat_k>
+    </row>
+</response>
